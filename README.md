@@ -22,6 +22,7 @@
 - Brain Map Project http://brain-map.org/ 
 - ArrayExpress: https://www.ebi.ac.uk/arrayexpress/
 - Mouse Expression Atlas http://www.emouseatlas.org/
+- Bgee https://bgee.org/
 
 ## GWAS Databases
  
@@ -69,8 +70,14 @@
 - UniProt: http://www.uniprot.org/
 - InterPro: https://www.ebi.ac.uk/interpro/
 - Pfam: http://pfam.xfam.org/
-- Enzyme Portal: www.ebi.ac.uk/enzymeportal
 - CATH/Gene3D: http://www.cathdb.info/
+- GlycoSuiteDB http://www.unicarbkb.org/
+- MobiDB - http://mobidb.bio.unipd.it/
+
+## Enzymes 
+
+- Cazy: http://www.cazy.org/
+- Enzyme Portal: www.ebi.ac.uk/enzymeportal
 
 
 ## Other Databases
@@ -98,12 +105,9 @@
 - HOVERGEN: http://pbil.univ-lyon1.fr/databases/hovergen.php
 - HOGENOM: http://doua.prabi.fr/databases/hogenom/home.php?contents=query
 - HOMOLENS: http://pbil.univ-lyon1.fr/databases/homolens.php
-- ProDom
-- CAZy
 - ASPicDB
 - DIGIT
-- MobiDB
-- LiceBase
+
 - CoarkOakDB
 - TreePortal
 - GOMapMan: http://www.gomapman.org
@@ -114,12 +118,8 @@
 - CentrosomeDB
 - ABS
 - HCAD
-- Bgee
 - EPD
-- GlycoSuiteDB
-- SugarBind
 - Progenetix
-- Arraymap
 - OrthoDB
 - ImmunoDB
 - miROrtho
