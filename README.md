@@ -1,6 +1,15 @@
 # List of omics databases by type omicst-type 
 
-## Genomics and Gene Expression: 
+## Genomics 
+
+- dbGap : https://www.ncbi.nlm.nih.gov/gap
+- SRA : https://www.ncbi.nlm.nih.gov/sra
+- Epigenomics: http://www.roadmapepigenomics.org/
+- Rat Genome Database: http://rgd.mcw.edu/
+- ClinVar : https://www.ncbi.nlm.nih.gov/clinvar/
+
+
+## Gene Expression: 
 
 - Gemma: http://www.chibi.ubc.ca/Gemma/home.html
 - GEO http://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4356
@@ -10,44 +19,37 @@
 
 ## GWAS Databases
  
- GWAS Central: http://help.gwascentral.org/info/web-services/search/ (
+- GWAS Central: http://help.gwascentral.org/info/web-services/search/ 
  
 ## Interactions 
-- Intact: Protein -(Protein Interactions.)
+- Intact: Protein http://www.ebi.ac.uk/intact/
  
 ## Models 
 - BioModel. (BioModels/System Biology)
  
-## Pathways:
+## Pathways:
 
 - Reactome www.reactome.org 
-- Wikipathways (http://www.wikipathways.org/index.php/Help:WikiPathways_Webservice/API), API           http://webservice.wikipathways.org/listPathways
+- Wikipathways http://www.wikipathways.org/index.php/Help:WikiPathways_Webservice/API, API     http://webservice.wikipathways.org/listPathways
 - KEEG (http://www.kegg.jp/kegg/rest/keggapi.html)
 
-Proteomics:
+## Proteomics:
 
- Yed Med Database: https://yped.med.yale.edu:8443/repository/
- ProteomeForms : http://repository.topdownproteomics.org/proteoforms/?DataSetId=1
- ProteomicsDB : https://www.proteomicsdb.org/
- PaxDB.
- Chorus
-
-Genomics:
-
- dbGap : https://www.ncbi.nlm.nih.gov/gap
- SRA : https://www.ncbi.nlm.nih.gov/sra
- Epigenomics: http://www.roadmapepigenomics.org/
- Rat Genome Database: http://rgd.mcw.edu/
- https://gdc-portal.nci.nih.gov/projects/
+- Yed Med Database: https://yped.med.yale.edu:8443/repository/
+- ProteomeForms : http://repository.topdownproteomics.org/proteoforms/?DataSetId=1
+- ProteomicsDB : https://www.proteomicsdb.org/
+- PaxDB. https://pax-db.org/
+- Chorus https://chorusproject.org/pages/index.html 
+- PRIDE: https://www.ebi.ac.uk/pride/archive/
+- PeptideAtlas: www.peptideatlas.org 
  
- ClinVar : https://www.ncbi.nlm.nih.gov/clinvar/
-Structures:
+## Structures:
 
- Biological Magnetic Resonance Data Bank http://www.bmrb.wisc.edu/
- PDB : www.rcsb.org/pdb/
-Transcriptomics:
-
+- Biological Magnetic Resonance Data Bank http://www.bmrb.wisc.edu/
+- PDB : www.rcsb.org/pdb/
  
+## Protein Sequences 
+
 Other Databases
 
  SILVA: https://www.arb-silva.de/
@@ -64,13 +66,10 @@ Other Databases
  ENA: http://www.ebi.ac.uk/ena
  Ensembl: http://www.ensembl.org/index.html
  Ensembl Genomes: http://ensemblgenomes.org/
- IntAct: http://www.ebi.ac.uk/intact/
  InterPro: https://www.ebi.ac.uk/interpro/
  MetaboLights: http://www.ebi.ac.uk/metabolights/
  PDBe: https://www.ebi.ac.uk/pdbe/
  Pfam: http://pfam.xfam.org/
- PRIDE: https://www.ebi.ac.uk/pride/archive/
- The Expression Atlas: https://www.ebi.ac.uk/gxa/home
  CATH-Gene3D: http://www.cathdb.info/
  IUPHAR/BPS: http://www.guidetopharmacology.org/
  Pathogen-Host Interaction Database: http://www.phi-base.org/
